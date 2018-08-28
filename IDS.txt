@@ -19,6 +19,7 @@
 
 58701|000000|AnyIDElse|Event Horizon|Event Horizon|5888701|5899999|58701|58701|
 31216|00f392|AnyIDElse|Ancient Rework|Crossbow|3121601|3121699|31216|31216|
+3678|64bdf3|AnyIDElse|Ancient Rework|starsector-t|367801|367859|3678|3678|
 2247|270055|JIN & AnyIDElse|Ancient Rework|Nightmare|224700|224799|2247|2247|
 1102|0036ff|EiBrsis & AnyIDElse|Ancient Rework|MK1102|110201|110299|1102|1102|
 
