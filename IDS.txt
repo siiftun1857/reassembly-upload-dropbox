@@ -2,7 +2,7 @@
 # Add your own IDS here:
 # FactionID|FacColor|Author|Series|FactionName|BlockIDLeast|BlockIDMost|RegionIDLeast|RegionIDMost|WorkshopId
 
-1234||Magnus siiftun1857 Frankline|ResourcePlus|ResourcePlus|1234000|1234999|1234000|1234999|
+1234||Magnus siiftun1857 Frankline|ResourcePlus|ResourcePlus|1234000|1234999|||||
 1235||Magnus siiftun1857 Frankline|Magnualand|DSSETRNDD|1235000|1235999|1235000|1235999|
 1238||Magnus siiftun1857 Frankline|Magnualand|Light Guard|1238000|1238999|1238000|1238999|
 1242||Magnus siiftun1857 Frankline|Magnualand|Winter Ender|1242000|1242999|1242000|1242999|
@@ -11,3 +11,12 @@
 1443||Magnus siiftun1857 Frankline|Magnualand|Strategic Brawler|1443000|1443999|1443000|1443999|
 1880|c0ff7f|Magnus siiftun1857 Frankline|Magnualand|Phage|1880000|1880999|1880000|1880999|
 1881||Magnus siiftun1857 Frankline|Magnualand|Null setter|1881000|1881999|1881000|1881999|
+
+1361||AnyIDElse|Mirrored|Mirrored|13611|13872|1361|1361|1457850458
+1361||AnyIDElse|Mirrored|Mirrored|13937|13999|1361|1361|1457850458
+1361||AnyIDElse|Mirrored|Mirrored|1300611|1309999|1361|1361|1457869576
+
+58701||AnyIDElse|Event Horizon|Event Horizon|5888701|5899999|58701|58701|
+31216||AnyIDElse|Crossbow|Crossbow|3121601|3121699|31216|31216|
+2247||JIN & AnyIDElse|Nightmare Mod V2.1|Nightmare|224700|224799|2247|2247|
+1102||EiBrsis & AnyIDElse|MK1102|MK1102|110201|110299|1102|1102|
