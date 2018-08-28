@@ -1,6 +1,10 @@
 # Reassembly IDS Database
+# Reassembly ID 认领计划
 # Add your own IDS here:
+# 在此处添加你的 ID:
+
 # FactionID|FacColor|Author|Series|FactionName|BlockIDLeast|BlockIDMost|RegionIDLeast|RegionIDMost|WorkshopId
+# 阵营ID|阵营颜色|作者名|Mod文件夹名|阵营名字|mod数字最小的方块id|mod数字最大的方块id|mod数字最小的领地id|mod数字最大的领地id|Steam创意工坊id
 
 1234||Magnus siiftun1857 Frankline|ResourcePlus|ResourcePlus|1234000|1234999|1234000|1234999|
 1235||Magnus siiftun1857 Frankline|Magnualand|DSSETRNDD|1235000|1235999|1235000|1235999|
