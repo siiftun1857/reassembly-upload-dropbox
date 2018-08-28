@@ -1,6 +1,13 @@
 # Reassembly IDS Database
 # Add your own IDS here:
-# FactionID|FacColor|Author|Series|FactionName|BlockIDLeast|BlockIDMost|WorkshopId
+# FactionID|FacColor|Author|Series|FactionName|BlockIDLeast|BlockIDMost|RegionIDLeast|RegionIDMost|WorkshopId
 
-1234||Magnus siiftun1857 Frankline|ResourcePlus|ResourcePlus|1234000|1234999|
-1257|5862a0|Magnus siiftun1857 Frankline|Magnualand|Lapismarine|1257000|1258999|1487636498
+1234||Magnus siiftun1857 Frankline|ResourcePlus|ResourcePlus|1234000|1234999|||||
+1235||Magnus siiftun1857 Frankline|Magnualand|DSSETRNDD|1235000|1235999|1235000|1235999|
+1238||Magnus siiftun1857 Frankline|Magnualand|Light Guard|1238000|1238999|1238000|1238999|
+1242||Magnus siiftun1857 Frankline|Magnualand|Winter Ender|1242000|1242999|1242000|1242999|
+1243||Magnus siiftun1857 Frankline|Magnualand|Outlaw|1243000|1243999|1243000|1243999|
+1257|5862a0|Magnus siiftun1857 Frankline|Magnualand|Lapismarine|1257000|1258999|1257000|1257999|1487636498
+1443||Magnus siiftun1857 Frankline|Magnualand|Strategic Brawler|1443000|1443999|1443000|1443999|
+1880|c0ff7f|Magnus siiftun1857 Frankline|Magnualand|Phage|1880000|1880999|1880000|1880999|
+1881||Magnus siiftun1857 Frankline|Magnualand|Null setter|1881000|1881999|1881000|1881999|
