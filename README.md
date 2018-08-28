@@ -10,6 +10,8 @@ IDS Table will be visible here: https://siiftun1857.github.io/re_ids.html
 ID认领表可以在这里查看: https://siiftun1857.github.io/re_ids.html
 
 ## 对于看不懂英文的添加者们
+注册账号，并在邮箱里找到激活邮件，点击“Verify email address”激活账号
+
 点击此链接并按照格式添加你的ID：https://github.com/siiftun1857/reassembly-upload-dropbox/edit/master/IDS.txt
 
 然后在每一个出现的页面内找到绿色按钮并按下
