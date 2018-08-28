@@ -1,0 +1,6 @@
+# Reassembly IDS Database
+# Add your own IDS here:
+# FactionID|FacColor|Author|Series|FactionName|BlockIDLeast|BlockIDMost|WorkshopId
+
+1234||Magnus siiftun1857 Frankline|ResourcePlus|ResourcePlus|1234000|1234999|
+1257|5862a0|Magnus siiftun1857 Frankline|Magnualand|Lapismarine|1257000|1258999|1487636498
