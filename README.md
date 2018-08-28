@@ -1,13 +1,13 @@
 # reassembly-upload-dropbox
 ## IDS Table
-Please edit IDS.txt and add your own Factions IDS, then send a pull request to me. 
+Please edit IDS.txt and add your own Factions IDS, then send a pull request. 
 
 IDS Table will be visible here: https://siiftun1857.github.io/re_ids.html
 
-## IDS认领表
-请编辑IDS.txt并按格式加上你的mod信息,然后向我发出Pull request。
+## ID 认领计划
+请编辑IDS.txt并按格式加上你的mod信息,然后发出Pull request。
 
-ID认领表可以在这里查看: https://siiftun1857.github.io/re_ids.html
+ID表可以在这里查看: https://siiftun1857.github.io/re_ids.html
 
 ## 对于看不懂英文的添加者们
 注册账号，并在邮箱里找到激活邮件，点击“Verify email address”激活账号
