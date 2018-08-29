@@ -1,7 +1,7 @@
 # Reassembly IDS Database
 # Reassembly ID 认领计划
 # Add your own IDS here:
-# 在列表的末尾添加你的 ID:
+# 在下方添加你的 ID:
 
 # FactionID|FacColor|Author|Series|FactionName|BlockIDLeast|BlockIDMost|RegionIDLeast|RegionIDMost|WorkshopId
 # 阵营ID|阵营颜色|作者名|Mod文件夹名|阵营名字|mod数字最小的方块id|mod数字最大的方块id|mod数字最小的领地id|mod数字最大的领地id|Steam创意工坊id
@@ -41,3 +41,5 @@
 20052|ec9d1e|Uiharu|Extra-Reassembly|Dancer|2005200|2005399|2003|2054|818042635
 20054|34bb74|Uiharu|Extra-Reassembly|Dryad|2005400|2005599|2003|2054|818042635
 19920101|337ab7|ATM|青日|青日|1992010101|1992010999|19920101|19920101|854615528
+4523|890000|leewvs|幕焰|幕焰|452301|452799|4523111|4523111|
+12937|C0C0C0|leewvs|待定|待定|12937001|12937999|1293701|1293701| 
