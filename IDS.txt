@@ -3,8 +3,11 @@
 # Add your own IDS here:
 # 在列表的末尾添加你的 ID:
 
+# Any lines starts without faction ID will be ignored. 
+# 不以阵营ID开头的行会被忽略。
+
 # FactionID|FacColor|Author|Series|FactionName|BlockIDLeast|BlockIDMost|RegionIDLeast|RegionIDMost|WorkshopId
-# 阵营ID|阵营颜色|作者名|Mod文件夹名|阵营名字|mod数字最小的方块id|mod数字最大的方块id|mod数字最小的领地id|mod数字最大的领地id|Steam创意工坊id
+# 阵营ID|阵营颜色|作者名|系列名称|阵营名称|方块ID下限|方块ID上限|领地ID下限|领地ID上限|Steam创意工坊项目ID
 
 1234||Magnus siiftun1857 Frankline|ResourcePlus|ResourcePlus|1234000|1234999|1234000|1234999|
 1235||Magnus siiftun1857 Frankline|Magnualand|DSSETRNDD|1235000|1235999|1235000|1235999|
@@ -53,3 +56,5 @@
 601|9e00ba|Fgdfgfthgr|Hyperplastic Crystals|Hyperplastic crystals|601001|601123|601|601|1117970007
 56|616161|Fgdfgfthgr|Shifters|Shifter|5601|5704|56|56|1117970073
 57|616161|Fgdfgfthgr|Shifters|Shifter|5601|5704|56|56|1117970073
+
+# DO_NOT_DELETE_THE_NEXT_BLANK_LINE_不要删除文件末的空行
