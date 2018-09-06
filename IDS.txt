@@ -9,16 +9,16 @@
 # FactionID|FacColor|Author|Series|FactionName|BlockIDLeast|BlockIDMost|RegionIDLeast|RegionIDMost|WorkshopId
 # 阵营ID|阵营颜色|作者名|系列名称|阵营名称|方块ID下限|方块ID上限|领地ID下限|领地ID上限|Steam创意工坊项目ID
 
-1234||Magnus siiftun1857 Frankline|ResourcePlus|ResourcePlus|1234000|1234999|1234000|1234999|
-1235||Magnus siiftun1857 Frankline|Magnualand|DSSETRNDD|1235000|1235999|1235000|1235999|
-1238||Magnus siiftun1857 Frankline|Magnualand|Light Guard|1238000|1238999|1238000|1238999|
-1242||Magnus siiftun1857 Frankline|Magnualand|Winter Ender|1242000|1242999|1242000|1242999|
-1243||Magnus siiftun1857 Frankline|Magnualand|Outlaw|1243000|1243999|1243000|1243999|
-1257|5862a0|Magnus siiftun1857 Frankline|Magnualand|Lapismarine|1257000|1258999|1257000|1257999|1487636498
-1259||Magnus siiftun1857 Frankline|Magnualand|Ancient|1259000|1259999|1259000|1259999|
-1443||Magnus siiftun1857 Frankline|Magnualand|Strategic Brawler|1443000|1443999|1443000|1443999|
-1880|c0ff7f|Magnus siiftun1857 Frankline|Magnualand|Phage|1880000|1880999|1880000|1880999|
-1881|800080|Magnus siiftun1857 Frankline|Magnualand|Null setter|1881000|1881999|1881000|1881999|
+1234||Magnus siiftun1857 Frankline|Magnuassembly|ResourcePlus|1234000|1234999|1234000|1234999|
+1235||Magnus siiftun1857 Frankline|Magnuassembly|DSSETRNDD|1235000|1235999|1235000|1235999|
+1238||Magnus siiftun1857 Frankline|Magnuassembly|Light Guard|1238000|1238999|1238000|1238999|
+1242||Magnus siiftun1857 Frankline|Magnuassembly|Winter Ender|1242000|1242999|1242000|1242999|
+1243||Magnus siiftun1857 Frankline|Magnuassembly|Outlaw|1243000|1243999|1243000|1243999|
+1257|5862a0|Magnus siiftun1857 Frankline|Magnuassembly|Lapismarine|1257000|1258999|1257000|1257999|1487636498
+1259||Magnus siiftun1857 Frankline|Magnuassembly|Ancient|1259000|1259999|1259000|1259999|
+1443||Magnus siiftun1857 Frankline|Magnuassembly|Strategic Brawler|1443000|1443999|1443000|1443999|
+1880|c0ff7f|Magnus siiftun1857 Frankline|Magnuassembly|Phage|1880000|1880999|1880000|1880999|
+1881|800080|Magnus siiftun1857 Frankline|Magnuassembly|Null setter|1881000|1881999|1881000|1881999|
 
 58701|000000|AnyIDElse|Event Horizon|Event Horizon|5888701|5899999|58701|58701|
 31216|00f392|AnyIDElse|Ancient Rework|Crossbow|3121601|3121699|31216|31216|
