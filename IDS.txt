@@ -18,7 +18,7 @@
 1259||Magnus siiftun1857 Frankline|Magnualand|Ancient|1259000|1259999|1259000|1259999|
 1443||Magnus siiftun1857 Frankline|Magnualand|Strategic Brawler|1443000|1443999|1443000|1443999|
 1880|c0ff7f|Magnus siiftun1857 Frankline|Magnualand|Phage|1880000|1880999|1880000|1880999|
-1881||Magnus siiftun1857 Frankline|Magnualand|Null setter|1881000|1881999|1881000|1881999|
+1881|800080|Magnus siiftun1857 Frankline|Magnualand|Null setter|1881000|1881999|1881000|1881999|
 
 58701|000000|AnyIDElse|Event Horizon|Event Horizon|5888701|5899999|58701|58701|
 31216|00f392|AnyIDElse|Ancient Rework|Crossbow|3121601|3121699|31216|31216|
