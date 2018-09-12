@@ -16,7 +16,7 @@
 1243||Magnus siiftun1857 Frankline|Magnuassembly|Outlaw|1243000|1243999|1243000|1243999||
 1257|5862a0|Magnus siiftun1857 Frankline|Magnuassembly|Lapismarine|1257000|1258999|1257000|1257999|1487636498|siiftun1857/magnuassembly
 1259||Magnus siiftun1857 Frankline|Magnuassembly|Ancient|1259000|1259999|1259000|1259999||
-1443||Magnus siiftun1857 Frankline|Magnuassembly|Strategic Brawler|1443000|1443999|1443000|1443999||
+1443|ea8700|Magnus siiftun1857 Frankline|Magnuassembly|Strategic Brawler|1443000|1443999|1443000|1443999||
 1880|c0ff7f|Magnus siiftun1857 Frankline|Magnuassembly|Phage|1880000|1880999|1880000|1880999|1487636498|siiftun1857/magnuassembly
 1881|800080|Magnus siiftun1857 Frankline|Magnuassembly|Null setter|1881000|1881999|1881000|1881999|1487636498|siiftun1857/magnuassembly
 
