@@ -10,12 +10,12 @@
 # 阵营ID|阵营颜色|作者名|系列名称|阵营名称|方块ID下限|方块ID上限|领地ID下限|领地ID上限|Steam创意工坊项目ID|Github项目
 
 1234||Magnus siiftun1857 Frankline|Magnuassembly|ResourcePlus|1234000|1234999|1234000|1234999||
-1235||Magnus siiftun1857 Frankline|Magnuassembly|DSSETRNDD|1235000|1235999|1235000|1235999||
-1238||Magnus siiftun1857 Frankline|Magnuassembly|Light Guard|1238000|1238999|1238000|1238999||
-1242||Magnus siiftun1857 Frankline|Magnuassembly|Winter Ender|1242000|1242999|1242000|1242999||
-1243||Magnus siiftun1857 Frankline|Magnuassembly|Outlaw|1243000|1243999|1243000|1243999||
+1235|ff7f00|Magnus siiftun1857 Frankline|Magnuassembly|DSSETRNDD|1235000|1235999|1235000|1235999||
+1238|ffbf00|Magnus siiftun1857 Frankline|Magnuassembly|Light Guard|1238000|1238999|1238000|1238999||
+1242|a879a8|Magnus siiftun1857 Frankline|Magnuassembly|Winter Ender|1242000|1242999|1242000|1242999||
+1243|821d28|Magnus siiftun1857 Frankline|Magnuassembly|Outlaw|1243000|1243999|1243000|1243999||
 1257|5862a0|Magnus siiftun1857 Frankline|Magnuassembly|Lapismarine|1257000|1258999|1257000|1257999|1487636498|siiftun1857/magnuassembly
-1259||Magnus siiftun1857 Frankline|Magnuassembly|Ancient|1259000|1259999|1259000|1259999||
+1259|0000ff|Magnus siiftun1857 Frankline|Magnuassembly|Ancient|1259000|1259999|1259000|1259999||
 1443|ea8700|Magnus siiftun1857 Frankline|Magnuassembly|Strategic Brawler|1443000|1443999|1443000|1443999||
 1880|c0ff7f|Magnus siiftun1857 Frankline|Magnuassembly|Phage|1880000|1880999|1880000|1880999|1487636498|siiftun1857/magnuassembly
 1881|800080|Magnus siiftun1857 Frankline|Magnuassembly|Null setter|1881000|1881999|1881000|1881999|1487636498|siiftun1857/magnuassembly
