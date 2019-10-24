@@ -20,7 +20,7 @@
 5||Manylegged|Reassembly|Plant|500|599||||
 5||Manylegged|Reassembly|Plant|5000|5999||||
 6|f6f6f6|Manylegged|Reassembly|Borg|6000|6999|207|207||
-6|f6f6f6|Manylegged|Reassembly|Borg|60000|69999|207|207||
+6|f6f6f6|Manylegged|Reassembly|Borg|60000|60999|207|207||
 7|ac6a19|Manylegged|Reassembly|Flies|700|799|204|204||
 8|5d6d90|Manylegged|Reassembly|Terran|800|899|200|200||
 10|cc009f|Manylegged|Reassembly|Contestant|||211|211||
