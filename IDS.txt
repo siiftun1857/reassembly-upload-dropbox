@@ -9,6 +9,29 @@
 # FactionID|FacColor|Author|Series|FactionName|BlockIDLeast|BlockIDMost|RegionIDLeast|RegionIDMost|WorkshopId|GithubRepository
 # 阵营ID|阵营颜色|作者名|系列名称|阵营名称|方块ID下限|方块ID上限|领地ID下限|领地ID上限|Steam创意工坊项目ID|Github项目
 
+1||Manylegged|Reassembly|Gamma Void Retro|100|199||||
+2|3f5646|Manylegged|Reassembly|Farmer|200|299|208|209||
+2|3f5646|Manylegged|Reassembly|Farmer|504|504|208|209||
+2|3f5646|Manylegged|Reassembly|Farmer|530|530|208|209||
+2|3f5646|Manylegged|Reassembly|Farmer|900|999|208|209||
+3|c06216|Manylegged|Reassembly|Red|300|399|202|202||
+4|58101d|Manylegged|Reassembly|Tinkrell|400|499|203|203||
+5||Manylegged|Reassembly|Plant|500|599||||
+5||Manylegged|Reassembly|Plant|5000|5999||||
+6|f6f6f6|Manylegged|Reassembly|Borg|6000|6999|207|207||
+6|f6f6f6|Manylegged|Reassembly|Borg|60000|69999|207|207||
+7|ac6a19|Manylegged|Reassembly|Flies|700|799|204|204||
+8|5d6d90|Manylegged|Reassembly|Terran|800|899|200|200||
+10|cc009f|Manylegged|Reassembly|Contestant|||211|211||
+11|066270|Manylegged|Reassembly| Crystalline|11000|11999|201|201||
+12|a48124|Manylegged|Reassembly|Bee|12000|12999|206|206||
+13|7f8e06|Manylegged|Reassembly|Spiky Plants|13000|13999|210|210||
+14||Manylegged|Reassembly|Ethereals|14000|14999||||
+15|6b8235|Manylegged|Reassembly|Sentinel|15000|15999|205|205||
+15|6b8235|Manylegged|Reassembly|Sentinel|1500|1599|205|205||
+100||Manylegged|Reassembly|Asteroids|16000|16999||||
+100||Manylegged|Reassembly|Asteroids|10000|10999||||
+
 1234||Magnus siiftun1857 Frankline|Magnuassembly|ResourcePlus|1234000|1234999|1234000|1234999|1487636498|siiftun1857/magnuassembly
 1235|ff7f00|Magnus siiftun1857 Frankline|Magnuassembly|DSSETRNDD|1235000|1235999|1235000|1235999|1487636498|siiftun1857/magnuassembly
 1238|ffbf00|Magnus siiftun1857 Frankline|Magnuassembly|Light Guard|1238000|1238999|1238000|1238999|1487636498|siiftun1857/magnuassembly
