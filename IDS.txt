@@ -12,7 +12,7 @@
 0||||Hard-Coded temporary launchable|65502|100000||||
 0||||Relocation|1|199||||
 0||||Relocation|17000|26000||||
-1||Manylegged|Reassembly|Gamma Void Retro||||||
+1||Manylegged|Reassembly|Gamma Void Retro Terran||||||
 2|3f5646|Manylegged|Reassembly|Farmer|200|299|208|209||
 2|3f5646|Manylegged|Reassembly|Farmer|504|504|208|209||
 2|3f5646|Manylegged|Reassembly|Farmer|530|530|208|209||
@@ -26,7 +26,7 @@
 7|ac6a19|Manylegged|Reassembly|Flies|700|799|204|204||
 8|5d6d90|Manylegged|Reassembly|Terran|800|899|200|200||
 10|cc009f|Manylegged|Reassembly|Contestant|||211|211||
-11|066270|Manylegged|Reassembly| Crystalline|11000|11999|201|201||
+11|066270|Manylegged|Reassembly|Crystalline|11000|11999|201|201||
 12|a48124|Manylegged|Reassembly|Bee|12000|12999|206|206||
 13|7f8e06|Manylegged|Reassembly|Spiky Plants|13000|13999|210|210||
 14||Manylegged|Reassembly|Ethereals|14000|14999||||
@@ -34,6 +34,8 @@
 15|6b8235|Manylegged|Reassembly|Sentinel|1500|1599|205|205||
 100||Manylegged|Reassembly|Asteroids|16000|16999||||
 100||Manylegged|Reassembly|Asteroids|10000|10999||||
+
+80|020199|Akaito|Reassembly AI Mod Example|VanillaModAi|||80|80|1368421131|Akaito/reassembly-ai-mod-example
 
 1234||Magnus siiftun1857 Frankline|Magnuassembly|ResourcePlus|1234000|1234999|1234000|1234999|1487636498|siiftun1857/magnuassembly
 1235|ff7f00|Magnus siiftun1857 Frankline|Magnuassembly|DSSETRNDD|1235000|1235999|1235000|1235999|1487636498|siiftun1857/magnuassembly
