@@ -62,8 +62,6 @@
 1361|cecece|AnyIDElse|Mirrored|Mirrored|1310001|1319999|1361|1361|1457850458|
 1361|ffffff|AnyIDElse|Mirrored|Mirrored|1300611|1309999|1361|1361|1457869576|
 
-1239|7f7f7f|saya39|Silencer|Silencer|12390000|12399999|12390|12399||
-
 20003|b051ff|Uiharu|Extra-Reassembly|Mechanical|2000100|2000199|2003|2054|818042635|
 20003|831ae8|Uiharu|Extra-Reassembly|Butterfly|2000300|2000399|2003|2054|818042635|
 20004|aaaaaa|Uiharu|Extra-Reassembly|Suiren|2000400|2000499|2003|2054|818042635|
@@ -87,5 +85,7 @@
 601|9e00ba|Fgdfgfthgr|Hyperplastic Crystals|Hyperplastic crystals|601001|601123|601|601|1117970007|
 56|616161|Fgdfgfthgr|Shifters|Shifter|5601|5704|56|56|1117970073|
 57|616161|Fgdfgfthgr|Shifters|Shifter|5601|5704|56|56|1117970073|
+
+1239|7f7f7f|saya39|Silencer|Silencer|12390000|12399999|12390|12399||
 
 # DO_NOT_DELETE_THE_NEXT_BLANK_LINE_不要删除文件末的空行
