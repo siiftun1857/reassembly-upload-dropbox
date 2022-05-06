@@ -37,21 +37,21 @@
 
 80|020199|Akaito|Reassembly AI Mod Example|VanillaModAi|||80|80|1368421131|Akaito/reassembly-ai-mod-example
 
-1234||Magnus siiftun1857 Frankline|Magnuassembly|ResourcePlus|1234000|1234999|1234000|1234999|1487636498|siiftun1857/magnuassembly
-1235|ff7f00|Magnus siiftun1857 Frankline|Magnuassembly|DSSETRNDD|1235000|1235999|1235000|1235999|1487636498|siiftun1857/magnuassembly
-1238|ffbf00|Magnus siiftun1857 Frankline|Magnuassembly|Light Guard|1238000|1238999|1238000|1238999|1487636498|siiftun1857/magnuassembly
-1242|a879a8|Magnus siiftun1857 Frankline|Magnuassembly|Winter Ender|1242000|1242999|1242000|1242999|1487636498|siiftun1857/magnuassembly
-1243|821d28|Magnus siiftun1857 Frankline|Magnuassembly|Outlaw|1243000|1243999|1243000|1243999|1487636498|siiftun1857/magnuassembly
-1257|5862a0|Magnus siiftun1857 Frankline|Magnuassembly|Lapismarine|1257000|1258999|1257000|1257999|1487636498|siiftun1857/magnuassembly
-1259|0000ff|Magnus siiftun1857 Frankline|Magnuassembly|Ancient|1259000|1259999|1259000|1259999|1487636498|siiftun1857/magnuassembly
-1443|0984ff|Magnus siiftun1857 Frankline|Magnuassembly|Strategic Brawler|1443000|1443999|1443000|1443999|1487636498|siiftun1857/magnuassembly
-1880|c0ff7f|Magnus siiftun1857 Frankline|Magnuassembly|Phage|1880000|1880999|1880000|1880999|1487636498|siiftun1857/magnuassembly
-1881|800080|Magnus siiftun1857 Frankline|Magnuassembly|Null setter|1881000|1881999|1881000|1881999|1487636498|siiftun1857/magnuassembly
+1234||Magnus siiftun1857|Magnuassembly|ResourcePlus|1234000|1234999|1234000|1234999|1487636498|siiftun1857/magnuassembly
+1235|ff7f00|siiftun1857|Magnuassembly|DSSETRNDD|1235000|1235999|1235000|1235999|1487636498|siiftun1857/magnuassembly
+1238|ffbf00|siiftun1857|Magnuassembly|Light Guard|1238000|1238999|1238000|1238999|1487636498|siiftun1857/magnuassembly
+1242|a879a8|siiftun1857|Magnuassembly|Winter Ender|1242000|1242999|1242000|1242999|1487636498|siiftun1857/magnuassembly
+1243|821d28|siiftun1857|Magnuassembly|Outlaw|1243000|1243999|1243000|1243999|1487636498|siiftun1857/magnuassembly
+1257|5862a0|siiftun1857|Magnuassembly|Lapismarine|1257000|1258999|1257000|1257999|1487636498|siiftun1857/magnuassembly
+1259|0000ff|siiftun1857|Magnuassembly|Ancient|1259000|1259999|1259000|1259999|1487636498|siiftun1857/magnuassembly
+1443|0984ff|siiftun1857|Magnuassembly|Strategic Brawler|1443000|1443999|1443000|1443999|1487636498|siiftun1857/magnuassembly
+1880|c0ff7f|siiftun1857|Magnuassembly|Phage|1880000|1880999|1880000|1880999|1487636498|siiftun1857/magnuassembly
+1881|800080|siiftun1857|Magnuassembly|Null setter|1881000|1881999|1881000|1881999|1487636498|siiftun1857/magnuassembly
 
 58701|000000|AnyIDElse|Event Horizon|Event Horizon|5888701|5899999|58701|58701||
 31216|00f392|AnyIDElse|Ancient Rework|Crossbow|3121601|3121699|31216|31216||
-2247|270055|JIN & AnyIDElse|Ancient Rework|Nightmare|224700|224799|2247|2247||
-1102|0036ff|EiBrsis & AnyIDElse|Ancient Rework|MK1102|110201|110299|1102|1102||
+2247|270055|AnyIDElse, JIN|Ancient Rework|Nightmare|224700|224799|2247|2247||
+1102|0036ff|AnyIDElse, EiBrsis|Ancient Rework|MK1102|110201|110299|1102|1102||
 1217|00497b|Lili|Tecen Technology|Tecen Technology|170000|170999|1217|1217|834429875|
 1217|00497b|Lili|Tecen Technology|Tecen Technology|1700000|1700999|1217|1217|834429875|
 19920101|337ab7|ATM|青日|青日|1992010101|1992010999|19920101|19920101|854615528|
